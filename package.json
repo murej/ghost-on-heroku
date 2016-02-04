@@ -10,7 +10,7 @@
   "private": true,
   "version": "0.7.5",
   "dependencies": {
-    "Casper": "murej/Casper",
+    "Casper": "murej/Casper#a52e73a",
     "ghost": "0.7.6",
     "ghost-s3-storage": "~0.2.2",
     "ncp": "^2.0.0",
